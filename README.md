@@ -34,7 +34,7 @@ This project aims to create a visually appealing and user-friendly web page for 
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/your-username/invoice-billing.git
+    git clone https://github.com/your-username/billing.git
     ```
 
 2. **Install Dependencies**: 
